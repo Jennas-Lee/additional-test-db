@@ -9,7 +9,8 @@ https://github.com/datacharmer/test_db
 ## Downloads
 
 ```shell
-
+wget https://raw.githubusercontent.com/Jennas-Lee/additional-test-db/main/additional_employees_1.sql
+wget https://raw.githubusercontent.com/Jennas-Lee/additional-test-db/main/additional_employees_2.sql
 ```
 
 ## License
